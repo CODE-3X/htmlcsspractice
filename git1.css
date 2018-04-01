@@ -1,0 +1,49 @@
+/*CSS STARTS HERE, sorry for lack of indentations */
+body {background-color: gray; 
+width:100%;
+}
+
+.section1 {
+	background-color: darkred;
+	font-family: arial;
+	width: 30%; 
+	float: right;
+	height: 420px;
+margin-right: 15%;
+margin-top: 5px;
+padding-top: 2px;}
+
+.section2
+
+{
+	background-color: skyblue;
+font-style: bold;
+width:30%;
+font-family: arial;
+float: left;
+height: 420px;
+;
+margin-left: 15%;
+margin-top: 5px;
+padding-top: 2px;
+}
+
+.titleh1 {
+font-size: 5.0em;
+color: black;
+
+}
+
+#banner img h1{
+float: center;
+color: orange;
+font-size: 2.0;
+
+}
+
+#mastercolor
+{background-color: black;
+	width: 81%;
+	color: orange;
+
+}

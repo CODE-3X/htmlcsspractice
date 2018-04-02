@@ -1,0 +1,59 @@
+body {
+	width:100%;
+	background-color: black;
+}
+
+.startersection
+
+{
+	width: 60%;
+margin-left: 20%;
+	color: black;
+text-align: center;
+background-color: brown;
+font-family: arial;
+border-style: groove;
+border-color: blue;
+}
+
+.banner 
+
+{
+width: 100%;
+height: 400px;
+
+
+
+
+}
+
+
+.articles
+
+{
+	font-family: helvetica;
+	font-size: 1.2em;
+	margin-top: 2%;
+width: 85%;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9S3bMmbEF_zbg_jlwNsdXJt2C8yyKJh04HGSZRVXSHcUR4FyO2w");
+background-repeat: no-repeat;
+background-size: 100%;
+background-color:gray;
+text-align: center;
+padding-bottom: 10px;
+border-style: ridge;
+border-color: white;
+}
+
+.articlepictures
+{
+
+	width: 60%;
+	height:300px;
+}
+#textarea {width: 50%;
+	text-align:center;
+display: inline-block;}
+
+#text p 
+{font-family: helvetica;}
